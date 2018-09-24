@@ -7,7 +7,7 @@ Utilities for creating bpmnlint rules.
 
 ## Usage
 
-```
+```javascript
 import {
   is,
   isAny
