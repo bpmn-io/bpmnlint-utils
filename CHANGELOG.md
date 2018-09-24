@@ -6,6 +6,10 @@ All notable changes to [bpmnlint-utils](https://github.com/bpmn-io/bpmnlint-util
 
 ___Note:__ Yet to be released changes appear here._
 
+## 1.0.1
+
+* `CHORE`: don't bundle rollup config
+
 ## 1.0.0
 
 * `FEAT`: initial version :tada:
