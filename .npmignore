@@ -4,4 +4,5 @@ test
 .eslintignore
 .eslintrc
 .travis.yml
+rollup.config.js
 yarn.lock
