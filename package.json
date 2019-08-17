@@ -1,5 +1,6 @@
 {
   "name": "bpmnlint-utils",
+  "description": "Utilities for creating bpmnlint rules",
   "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
