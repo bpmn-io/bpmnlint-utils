@@ -1,6 +1,6 @@
 # bpmnlint-utils
 
-[![Build Status](https://travis-ci.org/bpmn-io/bpmnlint-utils.svg?branch=master)](https://travis-ci.org/bpmn-io/bpmnlint-utils)
+[![Build Status](https://travis-ci.com/bpmn-io/bpmnlint-utils.svg?branch=master)](https://travis-ci.com/bpmn-io/bpmnlint-utils)
 
 Utilities for creating bpmnlint rules.
 
