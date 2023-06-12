@@ -1,7 +1,7 @@
 import {
   is,
   isAny
-} from '../..';
+} from '../../lib/index.js';
 
 import { expect } from 'chai';
 
